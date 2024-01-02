@@ -2,7 +2,7 @@ import React from "react";
 import "./brand.css";
 
 const Brand = () => {
-  return <div></div>;
+  return <div>Brand</div>;
 };
 
 export default Brand;
