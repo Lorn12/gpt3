@@ -36,6 +36,7 @@ const Navbar = () => {
         <p>Sign in</p>
         <button type="button">Sign Up</button>
       </div>
+      {/* MOBILE MENU_______________________________________________________________________________________________________________________ */}
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
           <RiCloseLine
