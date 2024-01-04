@@ -8,11 +8,17 @@ This project was from JS Mastery tutorial.
 
 # KEYPOINTS & BUILT USING
 
-- Converting figma file to design to React
+- Converting Figma file to design to React
 - React Functional components and their reusability
 - React file and folder structure
 - Fundamental CSS properties to master flex & grid
 - Fundamentals of the CSS BEM Model
 - Some animations to complex gradients
-- Media queries for satisfactory responsiveness covering almost devices
+- Media queries for satisfactory responsiveness covering most devices
 - Deploy website via Netlify
+
+# FIGMA DESIGN
+
+https://www.figma.com/file/DpRlQMzs9pHvMN6jqO4n7O/GPT-3-Layout?type=design&node-id=0%3A1&mode=dev
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDpRlQMzs9pHvMN6jqO4n7O%2FGPT-3-Layout%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddev" allowfullscreen></iframe>
