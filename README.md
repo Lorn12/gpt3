@@ -4,7 +4,7 @@ This project was from JS Mastery tutorial.
 
 # APP-DEMO
 
-<video src="GPT-3%20Site.mp4" controls title="Title"></video>
+[<video src="GPT-3%20Site.mp4" controls title="Title"></video>](https://github.com/Lorn12/gpt3/assets/43707274/dd7333db-c8b6-4e27-ae60-315618f06f2b)
 
 # KEYPOINTS & BUILT USING
 
