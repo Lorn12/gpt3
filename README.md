@@ -18,6 +18,6 @@ This project was from JS Mastery tutorial.
 - Deploy website via Netlify
 
 # FIGMA DESIGN
-<a href="https://www.figma.com/file/DpRlQMzs9pHvMN6jqO4n7O/GPT-3-Layout?type=design&node-id=0%3A1&mode=dev[](url)" target="_blank">● FIGMA FILE ● </a>
+<a href="https://www.figma.com/file/DpRlQMzs9pHvMN6jqO4n7O/GPT-3-Layout?type=design&mode=dev" target="_blank">● FIGMA FILE ● </a>
 
 
