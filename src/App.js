@@ -9,7 +9,7 @@ import {
   Header,
 } from "./containers";
 
-import { CTA, Brand, Navbar } from "./components";
+import { Register, Brand, Navbar } from "./components";
 import "./App.css";
 
 const App = () => {
@@ -23,7 +23,7 @@ const App = () => {
       <WhatGPT3 />
       <Features />
       <Possibility />
-      <CTA />
+      <Register />
       <Blog />
       <Footer />
     </div>

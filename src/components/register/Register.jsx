@@ -1,7 +1,7 @@
 import React from "react";
-import "./cta.css";
+import "./register.css";
 
-const CTA = () => {
+const Register = () => {
   return (
     <div className="gpt3__cta">
       <div className="gpt3__cta-content">
@@ -15,4 +15,4 @@ const CTA = () => {
   );
 };
 
-export default CTA;
+export default Register;
