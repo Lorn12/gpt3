@@ -8,10 +8,11 @@ This project was from JS Mastery tutorial.
 
 # KEYPOINTS & BUILT USING
 
+- Converting figma file to design to React
 - React Functional components and their reusability
 - React file and folder structure
 - Fundamental CSS properties to master flex & grid
 - Fundamentals of the CSS BEM Model
 - Some animations to complex gradients
 - Media queries for satisfactory responsiveness covering almost devices
-- Deployment via Netlify
+- Deploy website via Netlify
