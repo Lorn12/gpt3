@@ -19,6 +19,5 @@ This project was from JS Mastery tutorial.
 
 # FIGMA DESIGN
 
-<a href="https://www.figma.com/file/DpRlQMzs9pHvMN6jqO4n7O/GPT-3-Layout?type=design&node-id=0%3A1&mode=dev" target="__blank">Figma File</a>
+https://www.figma.com/file/DpRlQMzs9pHvMN6jqO4n7O/GPT-3-Layout?type=design&node-id=0%3A1&mode=dev[](url)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDpRlQMzs9pHvMN6jqO4n7O%2FGPT-3-Layout%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddev" allowfullscreen></iframe>
