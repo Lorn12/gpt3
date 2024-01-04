@@ -31,5 +31,3 @@ const App = () => {
 };
 
 export default App;
-
-// rafce = react functional component (It is like emmet in HTML, shorthand for writing code)
